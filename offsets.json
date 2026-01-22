@@ -1,6 +1,6 @@
 {
-    "LocalPlayer": "0x947A50",
-    "EntityList": "0x9699F8",
+    "LocalPlayer": "0x945A50",
+    "EntityList": "0x945A50",
     "ViewMatrix": "0x4BBC78",
     "LocalEyeAngles": "0x9D02",
 
@@ -17,5 +17,5 @@
 
     "RenderFov": "0xFFFB",
 
-    "Last Update": "14/1"
+    "Last Update": "22/1"
 }
