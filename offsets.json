@@ -3,6 +3,7 @@
     "EntityList": "0x9679F8",
     "ViewMatrix": "0x4BBC78",
     "LocalEyeAngles": "0x9D02",
+    "ForceJump": "0x0",
 
     "BoneMatrix": "0x1A98",
     "Armor": "",
