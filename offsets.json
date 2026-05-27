@@ -9,8 +9,8 @@
     "Armor": "",
     "m_hActiveWeapon": "0x2940",
     "Weaponname": "0x1D00",
-    "Playername": "0x3750",
-    "SteamID": "0x37D4",
+    "Playername": "0x36AC",
+    "SteamID": "0x3730",
     "m_iTeamNum": "0xD4",
     "m_iHealth": "0XC8",
 
@@ -18,5 +18,5 @@
 
     "RenderFov": "0xFFFB",
 
-    "Last Update": "27/5"
+    "Last Update": "27/5 test"
 }
